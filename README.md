@@ -3,6 +3,7 @@
 ![Abhishek Bakhai's github stats](https://github-readme-stats.vercel.app/api?username=yudiz-abhishek&theme=dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yudiz-abhishek&theme=dark&show_icons=true&local=en&layout=compact)
 <br/>
+[<img align="center" src="https://github-readme-streak-stats.herokupp.com/?username=yudiz-abhishek&" />]
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abhishek-bakhai-895b15143)
 
 
